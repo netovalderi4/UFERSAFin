@@ -1,0 +1,3 @@
+Igualmente na segunda unidade, o projeto é chamado UFERSAFIn. É um sistema de controle e gerenciamento financeiro que permite inserir e acompanhar seus gastos.
+
+Sobre o envio do projeto: foram feitas todas as solicitações de alterações, foi separado nos arquivos main.c, UFERSAFin.c UFERSAFin.h e o projeto tambem foi publicado no GitHub, segue link do repositorio: https://github.com/netovalderi4/UFERSAFin
